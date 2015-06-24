@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <ti:app xmlns:ti="http://ti.appcelerator.org">
     <!-- Salesforce Configuration -->
     <property name="force.consumer.key" type="string">3MVG9yZ.WNe6byQDlbp.aJOMs_3xxD51EIRUL1wlx410vA7xaWj.ZlsNwdXqz1HDALqCFOpOpGTZUcjIn7t3N</property>
